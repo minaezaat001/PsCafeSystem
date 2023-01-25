@@ -1,0 +1,1395 @@
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+E:\backend\.netcore\MVC\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Ps.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddDrink.cshtml.g.cs
+E:\backend\.netcore\MVC\Final elFinal -20200824T020221Z-001\Final elFinal\PcAppMaster\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddDrink.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Ps.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+C:\Users\Mina\Desktop\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddDrink.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Ps.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+D:\yarb\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddDrink.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Ps.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+F:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\appsettings.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.exe
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.deps.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.runtimeconfig.dev.json
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csprojAssemblyReference.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfoInputs.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.AssemblyInfo.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CoreCompileInputs.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorAssemblyInfo.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.input.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.TagHelpers.output.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorCoreGenerate.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddDrink.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\EndShiftByDate.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Ps.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.RazorTargetAssemblyInfo.cs
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.Views.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.csproj.CopyComplete
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.Manifest.cache
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\staticwebassets\PcAppMaster.StaticWebAssets.xml
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.dll
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.pdb
+D:\projects\Ps\PcAppMasterFinal\PcAppMaster\PcAppMaster\obj\Debug\netcoreapp3.1\PcAppMaster.genruntimeconfig.cache

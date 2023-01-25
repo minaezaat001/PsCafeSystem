@@ -1,0 +1,483 @@
+﻿@model IList<Device>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/css/vandors/bootstrap.min.css">
+    <!-- Fontawsome -->
+    <link rel="stylesheet" href="~/css/vandors/all.min.css">
+    <!-- Mian-Style -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/sweetalert.css">
+
+    <title>Index</title>
+</head>
+
+<body>
+
+    <!-- ================================================
+      Start Load  -->
+    <div class="load-page"></div>
+    <!-- ================================================
+      End Load  -->
+    <!-- ================================================
+      Start Header  -->
+    <header class="header">
+        <!-- Start Navbar -->
+        <ul class="nav-bar    p-md-3 py-3 px-1">
+
+
+            @foreach (var item in (List<HoursPrice>)ViewBag.types)
+            {
+                <li class="mt-3 text-center">
+                    <a href="#" data-targets="#@item.HpTypePc" class="link-navbar  colorWhait">
+                        <i class="fa fa-door-open  icon-nav mainColor  font-size d-block mx-auto"></i>
+                        @item.HpTypePc
+                    </a>
+                </li>
+
+            }
+
+            <li class="mt-3 text-center">
+                <a asp-controller="Login" asp-action="Login" class="colorWhait table-hover" target="_blank">
+                    <i class="fa fa-tv icon-nav mainColor font-size d-block mx-auto"></i>
+                    Admin Panal
+                </a>
+            </li>
+        </ul>
+        <!-- End Navbar -->
+
+    </header>
+    <!-- ================================================
+      End Header  -->
+    <!-- ================================================
+    Start App -->
+    <section class="app">
+        <!-- Start Pages -->
+        <div class="container-fluid">
+            <audio id="finished" src="~/0.mp3"></audio>
+            <!-- ================================================
+            Start control-page -->
+            @foreach (var k in (List<HoursPrice>)ViewBag.types)
+            {
+                <section id="@k.HpTypePc" class=" hidesec ps-page py-5  ">
+                    <div class="text-center">
+                        <h2 class="title-page  mb-5">
+                            Playstation devices
+                        </h2> <!-- ./title -->
+                    </div>
+                    <div class="container">
+                        <div class="row">
+
+                            <!-- Start Card PS -->
+
+                            @foreach (var item in Model.Where(x => x.HpId == k.HpId))
+                            {
+                                <div class="col-lg-4 col-md-6 mb-4">
+                                    <div class="card p-4 ">
+                                        <h5 class="card-title text-center">
+                                            <div class="icons-card">
+                                                <i class="fas fa-tv colorWhait bg-main-color font-size icon-ps"></i>
+                                                <span class=" num-ps colorWhait bg-main-color">@item.DvNumber</span>
+
+                                            </div>
+                                        </h5>
+                                        <img class=" card-img-top w-100 " height=" 150px" src="~/images/ps4/2.png" alt="Card image cap">
+
+                                        <!-- Start Timer -->
+                                        <div class="clock">
+                                            <div class="row">
+                                                <div class="checked-box col-12">
+                                                    <form class="d-flex mb-2 justify-content-center align-items-center  p-2 ps-chouse w-100">
+                                                        <label class="mb-0" for="sin-ps2">Single</label>
+                                                        <input class="ml-2" type="radio" id="sin-ps2" name="ps2">
+                                                        <label class="mb-0 ml-3" for="multi-ps2">multi</label>
+                                                        <input class="ml-2" type="radio" id="multi-ps2" value="@item.DvNumber" name="ps2">
+                                                    </form>
+                                                </div>
+                                                <div class="col-md-12 input-wrapper">
+                                                    <input type="number" class="num form-control w-100" min="1" placeholder="Minutes">
+                                                    <button class="btn w-100 mt-3 start no-clicked starttime " onclick="startTime(@item.DvNumber)">
+                                                        <i class="fa fa-clock"></i>
+                                                    </button>
+                                                </div>
+                                                <!-- ./Start Timer -->
+
+                                                <div class="col-12 timer">
+                                                    <div class="clock-wrapper font-size">
+                                                        <span class="hours">00</span>
+                                                        <span class="dots">:</span>
+                                                        <span class="minutes">00</span>
+                                                        <span class="dots">:</span>
+                                                        <span class="seconds">00</span>
+                                                    </div>
+                                                </div>
+                                                <!-- Show Timer -->
+
+                                                <div class="buttons-wrapper ">
+                                                    <a target="_blank" asp-action="AddDrink" asp-route-id="@item.DvNumber" class="getdrinkk bg-color-add w-50 add-drink">
+                                                        <i class="fa fa-plus"></i>
+                                                        <i class="fa fa-beer"></i>
+                                                    </a>
+                                                    <a target="_blank" asp-action="Details" asp-route-id="@item.DvNumber" class="  w-100 details">
+                                                        <i class="fa fa-list-alt" aria-hidden="true"></i>
+                                                        details
+                                                    </a>
+                                                    <button class=" w-50 bg-color-add reset-timer">
+                                                        <i class="fas fa-redo-alt    "></i>
+                                                    </button>
+                                                    <button onclick="End(@item.DvNumber)" class="end-end bg-color-remove w-50 stop-timer">
+                                                        End
+                                                    </button>
+                                                </div>
+                                                <!-- Action Timer -->
+
+                                            </div>
+                                        </div> <!-- ./Timer -->
+                                        <!-- ./card -->
+                                        @*<section class="parent-popup-drink ">
+                                                <div class="popup-content-drink py-4 px-3">
+                                                    <i class="fa fa-times click-pull p-2 color-remove font-size icon-closed"></i>
+                                                    <div class="text-center">
+                                                        <h2 class="title-page"> Add Drink </h2>
+                                                    </div>
+                                                    <div class="text-center mt-5 set">
+                                                        <input class="w-75 mb-3 border p-2 set-num-ps"
+                                                               value="@item.DvNumber"
+                                                               type="text"
+                                                               placeholder="Numper PS"
+                                                               readonly
+                                                               disabled />
+
+                                                        <select class="list-drinks ttrr w-75 mb-3 border p-2">
+                                                            <optgroup label="Drinks">Drinks</optgroup>
+
+                                                        </select>
+                                                        <input class="getprice w-75 mb-3 border p-2" type="text" placeholder="Price" readonly disabled>
+                                                        <input class="getqut w-75 mb-3 border p-2" type="number">
+                                                        <button onclick="addresetdrink(@item.DvNumber)" class="add-resetdrink btn border w-50 bg-color-add colorWhait">Add</button>
+                                                    </div>
+                                                </div>
+                                            </section>*@
+                                        @*<section class="parent-popup-details ">
+                                                <div class="popup-content-details py-4 px-3">
+                                                    <i class="fa fa-times click-pull p-2 color-remove font-size icon-closed"></i>
+                                                    <div class="text-center">
+                                                        <h2 class="title-page"> Details </h2>
+                                                    </div>
+                                                    <form class="text-center mt-5">
+                                                        <input class=" NumberPs w-75 mb-3 border p-2" type="text" placeholder="Number PS" readonly disabled>
+                                                        <input class="hours w-75 mb-3 border p-2" type="text" placeholder="Time PS" readonly disabled>
+                                                        <input class=" pricehours w-75 mb-3 border p-2" type="text" placeholder="Price Hours" readonly disabled>
+                                                        <input class="pricedrink w-75 mb-3 border p-2" type="text" placeholder="Price Dirnk" readonly disabled>
+                                                        <input class="total w-75 mb-3 border p-2" type="text" placeholder="Total" readonly disabled>
+                                                    </form>
+                                                </div>
+                                            </section>*@
+                                    </div>
+                                </div> <!-- ./col-lg-4 -->
+
+                                <!-- ./col-lg-4 -->
+                            }
+
+
+
+                        </div> <!-- ./row -->
+                    </div> <!-- ./ -->
+                </section>
+
+            }
+
+
+
+            <!-- =================================================
+            Start Popup -->
+            <!-- Popup Drink  -->
+            @*<section class="parent-popup-drink ">
+                    <div class="popup-content-drink py-4 px-3">
+                        <i class="fa fa-times click-pull p-2 color-remove font-size icon-closed"></i>
+                        <div class="text-center">
+                            <h2 class="title-page"> Add Drink </h2>
+                        </div>
+                        <div class="text-center mt-5">
+                            <input class="w-75 mb-3 border p-2" type="text" value="" placeholder="Name PS" readonly disabled>
+                            <select class="ttrr w-75 mb-3 border p-2">
+                                <optgroup label="Drinks">Drinks</optgroup>
+
+                            </select>
+                            <input class="getprice w-75 mb-3 border p-2" type="text" placeholder="Price" readonly disabled>
+                            <input class="getqut w-75 mb-3 border p-2" type="number">
+                            <button  class="add-resetdrink btn border w-50 bg-color-add colorWhait">Add</button>
+                        </div>
+                    </div>
+                </section>*@
+
+            <!-- Popup Details  -->
+            @*<section class="parent-popup-details ">
+                    <div class="popup-content-details py-4 px-3">
+                        <i class="fa fa-times click-pull p-2 color-remove font-size icon-closed"></i>
+                        <div class="text-center">
+                            <h2 class="title-page"> Account </h2>
+                        </div>
+                        <form class="text-center mt-5">
+                            <input class=" NumberPs w-75 mb-3 border p-2" type="text" placeholder="Number PS" readonly disabled>
+                            <input class="hours w-75 mb-3 border p-2" type="text" placeholder="Time PS" readonly disabled>
+                            <input class=" pricehours w-75 mb-3 border p-2" type="text" placeholder="Price Hours" readonly disabled>
+                            <input class="pricedrink w-75 mb-3 border p-2" type="text" placeholder="Price Dirnk" readonly disabled>
+                            <input class="total w-75 mb-3 border p-2" type="text" placeholder="Total" readonly disabled>
+                        </form>
+                    </div>
+                </section>*@
+            <!-- =====================================================
+            End Popup -->
+
+        </div> <!-- ./contaner -->
+    </section>
+    <!-- ================================================
+    End App -->
+    <!-- ================================================
+      Start Main Footer -->
+    <footer class=" py-3 footer bg-main-color colorWhait bottom">
+        <div class="text-center">
+            <span class="copy-right font-size">Copy Right &copy; 2020 Pnetworkers</span>
+        </div>
+    </footer>
+    <!-- ================================================
+        End Main Footer -->
+    <!-- Laibiry-Jquery -->
+    <script src="~/js/vandors/jquery.js"></script>
+    <!-- Bootstarp -->
+    <script src="~/js/vandors/bootstrap.min.js"></script>
+    <!-- Timer-Libiry -->
+    <script src="~/js/time.js"></script>
+    <!-- Main Script -->
+    <script src="~/js/main.js"></script>
+    <script src="~/js/sweetalert.min.js"></script>
+
+    <script>
+
+        // Drinks Create
+        $('.add').click(function () {
+
+            var name = $(".addname").val();
+            var price = $(".addprice").val();
+            var qut = $(".addqut").val();
+            var Drink =
+            {
+                drDrinkName: name,
+                drDrinkPrice: price,
+                drDrinkQut: qut
+            };
+
+            $.ajax({
+                url: "/Admin/CreateDrink",
+                type: "post",
+                data: Drink,
+                success: function () { alert() }
+
+            });
+        });
+
+        //home StartTime
+        function startTime(id) {
+            var x = $("input[value=" + id + "]").hasClass("checked");
+
+            $.ajax({
+                url: "/Home/StartTime/" + id,
+                type: "Get",
+                data:
+                {
+                    id: id,
+                    SorM: x
+                },
+
+
+            });
+
+        }
+        //device create
+
+        $('.adddev').click(function () {
+
+            var devnum = $('.adddevname').val();
+            var dvpctype = $('.list-typepc').val();
+            //var devpctype =
+            var Device =
+            {
+                dvNumber: devnum,
+                hpId: dvpctype
+            };
+
+            $.ajax({
+                url: "/Admin/CreateDevice",
+                type: "post",
+                data: Device,
+                success: function () { alert() }
+
+            });
+        });
+        //Get Drinks in receipt for drinks
+        $('.getdrinkk').click(function () {
+
+            $.ajax({
+                url: "/Admin/IndexDrink",
+                type: "Get",
+
+
+                success: function (data) {
+                    var html = '';
+                    $.each(data, function (i, item) {
+
+                        html += '  <option id="de" value=' + item.drDrinkName + '>' + item.drDrinkName + '</option>'
+
+
+                    })
+
+                    $(".list-drinks").html(html);
+
+                }
+            });
+        });
+        //Drinks Search
+        //Get price in receipt for drinks
+        $('.list-drinks').change(function () {
+
+            $.ajax({
+                url: "/Admin/Search/" + $(this).val(),
+                type: "Get",
+                success: function (data) {
+                    $('.getprice').val(data.drDrinkPrice);
+                }
+
+            })
+        });
+        // create receipt for drinks
+        // Home AddDrink
+        function addresetdrink(id) {
+
+            var drinkname = $(".list-drinks").val();
+            var drinkprice = $(".getprice").val();
+            var drinkqut = $(".getqut").val();
+            var drinktotal = drinkqut * drinkprice;
+
+            var receiptfordrinks =
+            {
+                rfDrink: drinkname,
+                rfDrinkprice: drinkprice,
+                rfDrinkQut: drinkqut,
+                rfDrinkTotal: drinktotal
+            };
+            $.ajax({
+                url: "/Home/AddDrink/" + id,
+                type: "post",
+                data: receiptfordrinks,
+                success: function () {
+                    $(".getqut").val();
+                    alert()
+                }
+
+            });
+        };
+        //home details
+        function detalis(id) {
+
+
+            $.ajax({
+                url: "/Home/Details",
+                type: "Get",
+                data:
+                {
+                    id: id,
+
+                },
+                success: function (data) {
+                    $(".total").val(data.recTotal);
+                    $(".pricedrink").val(data.recDrinkPrice);
+                    $(".pricehours").val(data.recHoursPrice);
+                    $(".NumberPs").val(data.recPcName);
+
+
+                    console.log(data);
+                }
+
+            });
+        };
+        //home end
+
+        function End(id) {
+
+            var x = $("input[value=" + id + "]").hasClass("checked");
+            $.ajax({
+                url: "/Home/End",
+                type: "Get",
+                data:
+                {
+                    id: id,
+                    SorM: x
+                },
+                success: function () { alert();  }
+
+
+            });
+        };
+        // DropDown PsType
+        $('#getlist').click(function () {
+
+
+            $.ajax({
+                url: "/Admin/IndexHoursPrice",
+                type: "Get",
+
+
+                success: function (data) {
+                    var html = '';
+                    $.each(data, function (i, item) {
+
+                        html += '  <option id="typepc"  value=' + item.hpId + '>' + item.hpTypePc + '</option>'
+
+
+                    })
+
+                    $(".list-typepc").html(html);
+
+                }
+            });
+        });
+
+//        function getpopup(id) {
+//            var html = `
+//                             <div class="popup-content-drink py-4 px-3">
+//        <i class="fa fa-times click-pull p-2 color-remove font-size icon-closed"></i>
+//        <div class="text-center">
+//            <h2 class="title-page"> Add Drink </h2>
+//        </div>
+//        <div class="text-center mt-5 set">
+//            <input class="w-75 mb-3 border p-2 set-num-ps"
+//                   value="${id}"
+//                   type="text"
+//                   placeholder="Numper PS"
+//                   readonly
+//                   disabled />
+
+//            <select class="list-drinks ttrr w-75 mb-3 border p-2">
+//                <optgroup label="Drinks">Drinks</optgroup>
+
+//            </select>
+//            <input class="getprice w-75 mb-3 border p-2" type="text" placeholder="Price" readonly disabled>
+//            <input class="getqut w-75 mb-3 border p-2" value="1" type="text">
+//            <button onclick="addresetdrink(${id})" class=" btn border w-50 bg-color-add colorWhait">Add</button>
+//        </div>
+//</div> ` ;
+//            $("#popupdrink").html(html);
+//            console.log(html);
+//        }
+
+
+
+    </script>
+</body>
+
+</html>

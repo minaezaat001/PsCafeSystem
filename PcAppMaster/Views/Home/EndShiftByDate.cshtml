@@ -1,0 +1,205 @@
+﻿@model IList<Device>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/css/vandors/bootstrap.min.css">
+    <!-- Fontawsome -->
+    <link rel="stylesheet" href="~/css/vandors/all.min.css">
+    <!-- Mian-Style -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Index</title>
+</head>
+
+<body>
+
+    <!-- ================================================
+      Start Load  -->
+    <div class="load-page"></div>
+    <!-- ================================================
+      End Load  -->
+
+    <section class="end-shift-page py-5 ">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="title-page mb-5">
+                    End Shift
+                </h2>  ./title-page 
+            </div>
+            <form>
+                <div class="d-flex justify-content-center head-end-shift">
+                    <input class=" p-2 mr-2" type="text" placeholder="Total Shift" disabled readonly>
+                    <a href="#" id="EndShiftSubmit" class="btn bg-color-remove colorWhait px-4">
+                        <i class="fas fa-sign-out-alt    "></i>
+                        End
+                    </a>
+                </div>
+                <div class="d-block d-md-flex justify-content-center">
+                    <div class="box-end-shift">
+                        <label class="colorWhait font-size mr-2" for="form">From</label>
+                        <input id="from" class="w-75 mt-3 p-2" type="date">
+                    </div>
+                    <div class="box-end-shift">
+                        <label class="colorWhait font-size mx-2" for="to">To</label>
+                        <input id="to" class="w-75 mt-3 p-2" type="date">
+                    </div>
+                </div>
+            </form>
+
+            <div class="table-responsive">
+                 Main Table 
+                <table class="table table-dark table-hover w-75 mx-auto  mt-5">
+                    <thead>
+                        <tr>
+                            <th scope="col">PS Name</th>
+                            <th scope="col">Time</th>
+                            <th scope="col">Time Cost </th>
+                            <th scope="col">Drink Cost  </th>
+                            <th scope="col">Total   </th>
+                            <th scope="col"> Date  </th>
+                        </tr>
+                    </thead>
+                    <tbody id="ShowEndShift">
+                    </tbody>
+                </table>
+                 End Main Table 
+            </div>
+
+        </div>
+    </section>
+
+    <section class=" py-5 ">
+        <div class="">
+            <div class="text-center">
+                <h2 class="title-page mb-5">
+                    Users Managment
+                </h2>
+            </div> <!-- title-page -->
+            <div class="text-center w-100 mx-auto">
+                <input class=" addid mb-3 p-2" type="text" placeholder="Name Drink">
+                <input class=" addname mb-3 p-2" type="text" placeholder="Name Drink">
+                <input class=" addprice  mb-3 p-2" type="number" min="1" placeholder="Price">
+                <input class=" addqut  mb-3 p-2" type="number" min="1" placeholder="Quantity">
+                <button class="add d-block mx-auto  btn bg-color-add colorWhait">
+                    Add
+                    <i class="fa fa-plus"></i>
+                </button>
+                <button class="Edit d-block mx-auto  btn bg-color-add colorWhait">
+                    Edit
+                    <i class="fa fa-edit"></i>
+                </button>
+            </div>
+            <!-- End-Form -->
+
+            <div class="table-responsive">
+                <!-- Main Table -->
+                <table id="DataTable" class="table table-dark table-hover w-75 mx-auto mt-5">
+                    <thead>
+                        <tr>
+                            <th scope="col">Edit</th>
+                            <th scope="col">User Name</th>
+                            <th scope="col">User Password</th>
+                            <th scope="col">User Phone</th>
+                            <th scope="col">User Kind</th>
+                        </tr>
+                    </thead>
+                    <tbody id="ShowUsersData">
+                    </tbody>
+                </table>
+                <!-- End Main Table -->
+            </div>
+
+
+        </div>
+    </section>
+
+
+
+    <!-- ================================================
+    End App -->
+    <!-- ================================================
+      Start Main Footer -->
+    <footer class=" py-3 footer bg-main-color colorWhait bottom">
+        <div class="text-center">
+            <span class="copy-right font-size">Copy Right &copy; 2020 Pnetworkers</span>
+        </div>
+    </footer>
+    <!-- ================================================
+        End Main Footer -->
+    <!-- Laibiry-Jquery -->
+    <script src="~/js/vandors/jquery.js"></script>
+    <!-- Bootstarp -->
+    <script src="~/js/vandors/bootstrap.min.js"></script>
+    <!-- Timer-Libiry -->
+    <script src="~/js/time.js"></script>
+    <!-- Main Script -->
+    <script src="~/js/main.js"></script>
+
+    <script>
+        //// End Shift By Date Load In Table 
+        //$('#EndShiftSubmit').click(function () {
+
+        //    var From = $("#From").val();
+        //    var To = $("#to").val();
+
+        //    $.ajax({
+        //        url: "https://localhost:44304/Admin/DateTaker",
+        //        type: "post",
+        //        data: {
+        //            From: From,
+        //            To: To,
+
+        //        },
+        //        success: function (data) {
+        //            var html = '';
+        //            $.each(data, function (i, item) {
+        //                html += '<tr>'
+
+        //                html += '<td>' + item.recPcName + '</td>';
+        //                html += '<td>' + item.recTotalMinutes + '</td>';
+        //                html += '<td>' + item.recHoursPrice + '</td>';
+        //                html += '<td>' + item.recDrinkPrice + '</td>';
+        //                html += '<td>' + item.recTotal + '</td>';
+        //                html += '<td>' + item.recStartTime + '</td>';
+
+        //                html += '</tr>'
+        //            })
+
+        //            $("#ShowEndShift").html(html);
+        //        }
+
+        //    });
+        //});
+
+        // Users Load In Table 
+        function LoadUsers() {
+            $.get("https://localhost:44304/User/IndexUser", function (data) {
+                //var html = '';
+                //$.each(data, function (i, item) {
+                //    html += '<tr>'
+                //    html += ' <th scope="row" class="d-flex"><i  onclick="EditDrink(' + item.drDrinkId + ')"class="fas fa-edit click-pull color-add font-size "></i><i onclick="DeleteDrink(' + item.drDrinkId + ')"  class="fa fa-trash click-pull color-remove font-size mx-1"></i></th >'
+                //    html += '<td>' + item.drDrinkName + '</td>';
+                //    html += '<td>' + item.drDrinkPrice + '</td>';
+                //    html += '<td>' + item.drDrinkQut + '</td>';
+
+                //    html += '</tr>'
+                //})
+
+                //$("#ShowDrinksData").html(html);
+
+                console.log(data);
+
+               
+            })
+
+           
+        }
+        LoadUsers();
+
+    </script>
+</body>
+
+</html>

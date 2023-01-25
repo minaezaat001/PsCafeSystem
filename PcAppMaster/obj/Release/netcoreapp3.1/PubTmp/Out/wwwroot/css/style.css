@@ -1,0 +1,749 @@
+
+/* 
+    1-Main Style
+        1.1-Main Table Style
+        1.2-Main Table
+    2-Main Header
+    3-Logins Page
+    4-PS4 Page
+        4.1-Form Add Time
+        4.2-Show Timer
+        4.3-Aletr Timer Finshed
+    5-Details Page
+    6-Drink Page
+    7-End Shift
+    8-Add Page
+        8.1-Add PS
+        8.2-Add Drink
+
+*/
+
+/*=========================
+1-Start Main Style */
+:root {
+    --mainColor: #094088;
+    --black: #0f0b0b;
+    --whait: #ffffff;
+    --gray: #bdc3c7;
+}
+
+body {
+    background-color: #f1f1f1;
+    text-transform: capitalize;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url("../images/bg/Plejak.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#EditDevice {visibility:hidden;} 
+
+
+#EditType {
+    visibility:hidden;
+}
+#EditUser{visibility:hidden;}
+#UserId {
+    visibility: hidden;
+}
+#editdrink{visibility:hidden;}
+
+#PsId {
+    visibility: hidden;
+}
+input:focus,
+textarea {
+    outline: var(--mainColor);
+}
+
+select {
+    outline: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.mainColor {
+    color: var(--mainColor);
+}
+
+.colorWhait {
+    color: var(--whait);
+}
+
+.bg-main-color {
+    background: var(--mainColor);
+}
+
+.font-size {
+    font-size: 1em;
+}
+
+.click-pull {
+    cursor: pointer;
+}
+
+.no-clicked {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.btn-min:hover {
+    color: var(--mainColor);
+    background-color: transparent;
+}
+
+.bg-color-add {
+    background-color: #26a65b;
+    border: 1px solid #26a65b;
+}
+
+.color-add {
+    color: #26a65b;
+}
+
+.bg-color-add:hover {
+    color: #26a65b !important;
+    background-color: var(--whait);
+}
+
+.bg-color-remove {
+    background-color: #f00;
+    border: 1px solid #f00;
+}
+
+    .bg-color-remove:hover {
+        color: #f00 !important;
+        background-color: var(--whait);
+    }
+
+.color-remove {
+    color: #f00;
+}
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.title-page {
+    position: relative;
+    display: inline-block;
+    color: var(--whait);
+}
+
+    .title-page::before {
+        content: "";
+        position: absolute;
+        height: 5px;
+        width: 100%;
+        left: 0;
+        bottom: -15px;
+        background-color: var(--whait);
+    }
+
+    .title-page::after {
+        content: "";
+        position: absolute;
+        height: 10px;
+        width: 30px;
+        left: 0;
+        bottom: -15px;
+        background: var(--mainColor);
+        transition: width 0.4s, background 1s;
+        animation: width 2s 0s linear infinite;
+    }
+
+@keyframes width {
+    0% {
+        left: 0%;
+        opacity: 1;
+    }
+
+    25% {
+        left: 20%;
+    }
+
+    50% {
+        left: 40%;
+    }
+
+    75% {
+        left: 60%;
+    }
+
+    100% {
+        left: 80%;
+        opacity: 0;
+    }
+}
+
+
+/* Show Sections */
+#ps,
+#shift,
+#user,
+#control,
+.hidesec,
+.shift-hidden {
+    display: none;
+}
+.block {
+    display: block;
+}
+/* Popup */
+.parent-popup-drink,
+.parent-popup-details {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    /* display: none; */
+    z-index: 3;
+}
+
+.popup-content-drink .box-from {
+    position: relative;
+}
+
+    .popup-content-drink .box-from i {
+        position: absolute;
+        right: 0px;
+        top: 0;
+        height: 43px;
+        line-height: 43px;
+        padding: 0 15px;
+    }
+
+    .parent-popup-drink .popup-content-drink,
+    .parent-popup-details .popup-content-details {
+        position: fixed;
+        margin: 0 auto;
+        background-color: var(--whait);
+        top: 50%;
+        left: 50%;
+        transform: scale(0);
+        transition: transform 0.8s;
+    }
+
+        .parent-popup-drink .popup-content-drink .title-page,
+        .parent-popup-details .popup-content-details .title-page {
+            color: var(--mainColor);
+        }
+
+        .parent-popup-drink .popup-content-drink .icon-closed,
+        .parent-popup-details .popup-content-details .icon-closed {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        }
+/* Load */
+.load-page {
+    background-image: url("../images/load/0_751Ud018bngsi5ytmasxs5b_qv08bb.gif");
+    z-index: 999;
+    background-size: cover;
+    background-position: center center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+@media (max-width: 767px) {
+    .parent-popup-drink .popup-content-drink,
+    .parent-popup-details .popup-content-details {
+        width: 80%;
+    }
+}
+
+/*=========================
+1-End Main Style */
+/* =====================
+2-Start Main Navbar */
+.nav-bar {
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 5px 3px #000;
+    z-index: 1;
+}
+
+    .nav-bar .link-navbar:hover,
+    .nav-bar .link-navbar.active {
+        color: var(--whait);
+    }
+
+        .nav-bar .link-navbar:hover .icon-nav,
+        .nav-bar .link-navbar.active .icon-nav {
+            background-color: var(--mainColor);
+            color: var(--whait);
+        }
+
+    .nav-bar .icon-nav {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        background-color: var(--whait);
+        border-radius: 50%;
+        margin-bottom: 10px;
+        transition: background-color 0.4s, color 0.4s;
+    }
+
+/* =====================
+2-End Main Navbar */
+
+/* =====================
+3-Start  Control page */
+
+/* =====================
+3-End  Control page */
+.control-page .contet-control {
+    background-color: #f1f1f1;
+    box-shadow: 1px 1px 3px 1px #999;
+    border-radius: 4px;
+}
+
+.control-page .box-admin {
+    background: rgb(41, 9, 136);
+    background: radial-gradient(circle, rgba(41, 9, 136, 1) 0%, rgba(51, 51, 51, 1) 61%, rgba(9, 64, 136, 1) 100%);
+    color: var(--whait);
+    box-shadow: 0 0 5px 0;
+    height: 200px;
+    justify-content: center;
+}
+
+    .control-page .box-admin span.on {
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+        background-color: #26a65b;
+        border-radius: 50%;
+    }
+
+    .control-page .box-admin i {
+        color: var(--mainColor);
+        background-color: var(--whait);
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        border-radius: 50%;
+    }
+
+@media(max-width:767px) {
+    .control-page .box-admin i {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+    }
+    .app input,
+    .app select,
+    .app button {
+        width: 100% !important
+    }
+
+    }  
+.control-page .contet-control .box-contnet {
+    position: relative;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+    .control-page .contet-control .box-contnet .icon {
+        color: var(--whait);
+        background-color: var(--mainColor);
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 50%;
+        border: 1px solid;
+        transition: color 0.4s, background-color 0.4s;
+    }
+
+    .control-page .contet-control .box-contnet:hover .icon {
+        color: var(--mainColor);
+        background-color: var(--whait);
+        transform: scale(1.1);
+    }
+
+    .control-page .contet-control .box-contnet .title-icon::before {
+        content: "+";
+        position: absolute;
+        color: var(--mainColor);
+        background-color: var(--whait);
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+        line-height: 15px;
+        text-align: center;
+        right: 0;
+        font-weight: bold;
+        transition: color 0.4s, background-color 0.4s;
+        z-index: 2;
+    }
+@media(max-width:767px) {
+    .control-page .contet-control .box-contnet .title-icon::before {
+        right: 20px;
+    }
+}  
+    .control-page .contet-control .box-contnet:hover .title-icon::before {
+        animation: up 1.5s 0s linear infinite;
+        background-color: var(--mainColor);
+        color: var(--whait);
+    }
+
+.control-page .add-ps-page,
+.control-page form.hideen {
+    display: none;
+}
+
+    .control-page .add-drink-page form input,
+    .control-page .add-drink-page form button,
+    .control-page .add-ps-page form button,
+    .control-page .add-ps-page form input {
+        width: 50%;
+    }
+
+@media (max-width: 767px) {
+    .control-page .add-drink-page form input,
+    .control-page .add-ps-page form button,
+    .control-page .add-ps-page form input,
+    .control-page .add-ps-page form input {
+        width: 100%;
+    }
+}
+
+@keyframes up {
+    form {
+        transform: rotate(180deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+/* ==================
+3-Start Logins Page*/
+/* Login Page */
+.login-page {
+    height: 100vh;
+}
+
+.user_card {
+    width: 350px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background: var(--whait);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+
+.brand_logo_container {
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    top: -75px;
+    border-radius: 50%;
+    background: var(--whait);
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 10px 40px 0 var(--mainColor);
+}
+
+.brand_logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.form_container {
+    margin-top: 100px;
+}
+
+.login_btn {
+    width: 100%;
+    background: var(--mainColor);
+    color: white !important;
+}
+
+    .login_btn:focus {
+        box-shadow: none !important;
+        outline: 0px !important;
+    }
+
+.login_container {
+    padding: 0 2rem;
+}
+
+.input-group-text {
+    background: var(--mainColor);
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+}
+
+.input_user,
+.input_pass:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+
+/* ================== 
+4-Start PS4 Page
+        4.1-Form Add Time
+        4.2-Show Timer
+        4.3-Aletr Timer Finshed  */
+.ps-page .card {
+    box-shadow: 0px 0px 5px 0px #333;
+    background-color: rgba(57, 97, 171, 0.3);
+    color: var(--whait);
+}
+
+    .ps-page .card .icons-card {
+        display: inline-block;
+    }
+
+        .ps-page .card .icons-card .icon-ps {
+            height: 60px;
+            width: 60px;
+            line-height: 60px;
+            text-align: center;
+            border-radius: 50%;
+            transition: color 0.4s, background-color 0.4s, transform 0.4s;
+        }
+
+    .ps-page .card:hover .icons-card .icon-ps {
+        background-color: var(--whait);
+        color: var(--mainColor);
+        transform: scale(1.2);
+    }
+
+    .ps-page .card .card-title .num-ps {
+        position: absolute;
+        top: -1px;
+        right: -1px;
+        width: 55px;
+        height: 50px;
+        line-height: 35px;
+        text-align: center;
+        font-size: 18px;
+        border-bottom-left-radius: 100%;
+        box-shadow: -5px 5px 10px 0 var(--black);
+    }
+/* Timer */
+.ps-page button:hover {
+    transition: all 0.5s ease;
+    transform: scale(1.05);
+}
+
+.ps-page .clock .input-wrapper .input input:focus,
+.ps-page .clock .input-wrapper .input input:active,
+.ps-page .clock .input-wrapper button:focus,
+.ps-page .clock .input-wrapper button:active {
+    outline: none;
+    box-shadow: none;
+    border-color: var(--mainColor);
+}
+
+.ps-page .clock .buttons-wrapper {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+}
+
+.ps-page .clock .input-wrapper button {
+    background-color: var(--whait);
+    font-weight: bold;
+    color: var(--mainColor);
+    transition: opacity 0.4s;
+}
+
+    .ps-page .clock .input-wrapper button:hover {
+        background-color: var(--mainColor);
+        color: var(--whait);
+    }
+
+.ps-page .clock .timer {
+    display: none;
+}
+
+    .ps-page .clock .timer .clock-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+
+        .ps-page .clock .timer .clock-wrapper span {
+            font-weight: bold;
+            transition: all 0.2s ease;
+        }
+
+            .ps-page .clock .timer .clock-wrapper span.dots {
+                margin: -2px 5px 0;
+            }
+
+.ps-page .clock .stop-timer,
+.ps-page .clock .add-drink,
+.ps-page .clock .details,
+.ps-page .clock .reset-timer {
+    margin: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: none;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.ps-page .clock .details {
+    background-color: var(--whait);
+    border: 1px solid var(--whait);
+    color: var(--mainColor);
+}
+
+    .ps-page .clock .details:hover {
+        background-color: var(--mainColor);
+        color: var(--whait);
+    }
+
+.ps-page .clock .resume-timer:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: var(--mainColor);
+}
+
+.ps-page .clock .stop-timer:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: rgb(233, 19, 19);
+}
+
+.ps-page .clock .reset-timer:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #000;
+}
+
+@media only screen and (max-width: 768px) {
+    .ps-page .clock .timer .clock-wrapper span.dots {
+        margin-top: -3px;
+    }
+}
+
+/* ==================
+        5-Start Details Page*/
+
+/* ==================
+        6-Start Drink Page*/
+
+/* ================== 
+        7-Start End Shift */
+
+.end-shift-page .box-end-shift {
+    width: 40%;
+}
+
+@media (max-width: 767px) {
+    .end-shift-page .box-end-shift {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+        .end-shift-page .box-end-shift label {
+            margin-top: 20px;
+        }
+
+    .end-shift-page .head-end-shift input {
+        width: 50%;
+    }
+}
+
+/* ================== 
+        8-Start Add Page
+                8.1-Add PS
+                8.2-Add Drink */
+/* Drinks */
+.drinks .box-aria {
+    background-color: #fff;
+    position: relative;
+    padding: 10px 15px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 0;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-drinks {
+    background-color: #fff;
+    position: relative;
+    padding: 10px 15px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px 0;
+    min-height: 100px;
+}
+
+.drinks .box-aria i,
+.drinks .box-drinks i {
+    position: absolute;
+    left: 50%;
+    top: -30px;
+    box-shadow: 0 -8px 5px 0;
+    transform: translateX(-50%);
+    background: #fff;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 22px;
+    color: var(--mainColor);
+}
+
+.drinks .box-aria .title,
+.drinks .box-drinks .title {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.drinks .box-aria .info-title,
+.drinks .box-drinks .info-title {
+    font-size: 20px;
+    margin-top: 5px;
+    border: none;
+     width: 60px;
+    text-align: center;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 150px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}

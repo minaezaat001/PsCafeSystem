@@ -1,0 +1,88 @@
+﻿@model PcAppMaster.Models.User
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/css/vandors/bootstrap.min.css" />
+    <!-- Fontawsome -->
+    <link rel="stylesheet" href="~/css/vandors/all.min.css" />
+    <!-- Mian-Style -->
+    <link rel="stylesheet" href="~/css/style.css" />
+    <title>Login</title>
+</head>
+
+<body>
+    <!-- ================================================
+    Start Load  -->
+    <div class="load-page"></div>
+    <!-- ================================================
+    End Load  -->
+    <!-- ================================================
+    Start App -->
+    <section class="app">
+        @ViewBag.log
+        <!-- Start Pages -->
+        <div class="container-fluid">
+            <!-- ================================================
+        Start control-page -->
+            <div class="container login-page">
+                <div class="d-flex justify-content-center justify-aitems-center h-100">
+                    <div class="user_card py-5">
+                        <div class="d-flex justify-content-center">
+                            <div class="brand_logo_container">
+                                <img src="~/images/ps4/2.png" class="brand_logo" alt="Logo" />
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-center form_container">
+
+                            <form asp-action="Login">
+                                <div class="input-group mb-3">
+                                    <div class="input-group-append">
+                                        <span class="input-group-text"><i class="fas fa-user"></i></span>
+                                    </div>
+
+                                    <input asp-for="UserName" type="text" class="form-control input_user" placeholder="username" />
+                                </div>
+                                <div class="input-group mb-2">
+                                    <div class="input-group-append">
+                                        <span class="input-group-text"><i class="fas fa-key"></i></span>
+                                    </div>
+                                    <input asp-for="UserPassword" type="password" class="form-control input_pass" placeholder="password" />
+                                </div>
+                                <div class="d-flex justify-content-center mt-4 login_container">
+                                    <button type="submit" name="button" class="btn login_btn">Login</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ================================================
+        End Add Tpye PS-Page -->
+        </div>
+        <!-- ./continer -->
+    </section>
+    <!-- ================================================
+    End control-page -->
+    <!-- ================================================
+    Start Main Footer -->
+    <footer class="py-3 footer bg-main-color colorWhait bottom">
+        <div class="text-center">
+            <span class="copy-right font-size">Copy Right &copy; 2020 Pnetworkers</span>
+        </div>
+    </footer>
+    <!-- ================================================
+    End Main Footer -->
+    <!-- Laibiry-Jquery -->
+    <script src="~/js/vandors/jquery.js"></script>
+    <!-- Bootstarp -->
+    <script src="~/js/vandors/bootstrap.min.js"></script>
+    <!-- Timer-Libiry -->
+    <script src="~/js/time.js"></script>
+    <!-- Main Script -->
+    <script src="~/js/main.js"></script>
+</body>
+</html>
+
